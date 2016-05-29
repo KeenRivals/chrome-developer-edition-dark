@@ -2,7 +2,7 @@
 	"name": "Developer Edition Dark",
 	"short_name": "DevEdtn Dark",
 	"manifest_version": 2,
-	"version": "0.1",
+	"version": "1.0",
 	"description": "A Chrome theme inspired by Firefox's Developer Edition Dark theme.",
 	"theme":{
 		"images":{
