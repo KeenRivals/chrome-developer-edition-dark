@@ -18,8 +18,7 @@
 			"toolbar":[39,43,53],
 			"tab_text":[255,255,255],
 			"tab_background_text":[255,255,255],
-			"bookmark_text":[255,255,255],
-			"button_background":[57,63,76,1]
+			"bookmark_text":[255,255,255]
 		},
 		"tints":{
 			"buttons":[0,0,1],
